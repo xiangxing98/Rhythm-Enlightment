@@ -1,6 +1,6 @@
-#《声律启蒙》全文注音版带拼音
+# 《声律启蒙》全文注音版带拼音
 
-##《声律启蒙》注音版(上)
+## 《声律启蒙》注音版(上)
 
 ### 一yī东dōng
 
@@ -89,7 +89,6 @@
 女子nǚ zǐ眉纤méi xiān，额下é xià 现xiàn一弯yī wān新月xīn yuè；
 
 男儿nán ér气壮qì zhuàng，胸中xiōng zhōng 吐tǔ 万丈 wànzhàng 长虹cháng hóng。
-
 
 ### 二**èr** **冬dōng**
 
@@ -195,7 +194,6 @@
 
 须xū 凭píng 诗shī 酒jiǔ 养yǎng 疏shū慵yōng。
 
-
 ### **三sān** **江jiāng**
 
 #### 007 凯叔·声律启蒙-上-注音版-歌词·三江-1 楼lóu 对duì 阁gé~户hù 对duì 窗chuāng
@@ -300,7 +298,6 @@
 
 水shuǐ 必决bì jué 于yú 西江xī jiāng。
 
-
 ### **四sì** **支zhī**
 
 #### 010 凯叔·声律启蒙-上-注音版-歌词·四支-1 茶chá 对duì 酒jiǔ~赋fù 对duì 诗shī
@@ -317,7 +314,7 @@
 
 四sì 目mù 颉jié，
 
-一yī 足zú 夔kuí， 
+一yī 足zú 夔kuí，
 
 鸲qú 鹆yù对duì 鹭lù鸶sī。
 
@@ -341,7 +338,7 @@
 
 行háng 对duì 止zhǐ，
 
-速sù 对duì 迟chí， 
+速sù 对duì 迟chí，
 
 舞剑wǔ jiàn 对duì 围棋wéi qí。
 
@@ -404,7 +401,6 @@
 唐儒táng rú 博识bó shí，
 
 堪为kān wéi 五总wǔ zǒng 之zhī 龟guī。
-
 
 ### **五wǔ** **微wēi**
 
@@ -509,7 +505,6 @@
 命mìng 伊yī 将帅jiàngshuài，
 
 为wéi 歌gē 杨yáng 柳liǔ 依yī 依yī。
-
 
 ### **六liù** **鱼yú**
 
@@ -813,7 +808,7 @@
 
 眉méi 对duì 目mù ,口kǒu 对duì 心xīn ,锦jǐn 瑟sè 对duì 瑶yáo 琴qín 。晓xiǎo 耕gēng 对duì 寒hán 钓diào ，晚wǎn 笛dí 对duì 秋qiū 砧zhēn 。松sōng 郁yùyù郁，竹zhú 森sēnsēn森， 闵mǐn 损sǔn 对duì 曾zēng 参cān。秦qín 王wáng 亲qīn 击jī 缶fǒu，虞yú 帝dì 自zì 挥huī 琴qín 。三sān 献xiàn 卞biàn 和hé 尝cháng 泣qì 玉yù ，四sì 知zhī 杨yáng 震zhèn 固gù 辞cí金jīn。寂jì 寂jì 秋qiū 朝cháo ，庭tíng 叶yè 因yīn 霜shuāng 摧cuī 嫩nèn 色sè。沉chén沉chén 春chūn夜yè， 砌qì 花huā 随suí 月yuè 转zhuǎn 清qīng 阴yīn 。
 
-#### 080 凯叔·声律启蒙-下-注音版-歌词·十二侵-2 前qián 对duì 后hòu~古gǔ 对duì 今jīn 
+#### 080 凯叔·声律启蒙-下-注音版-歌词·十二侵-2 前qián 对duì 后hòu~古gǔ 对duì 今jīn
 
 前qián 对duì 后hòu ，古gǔ 对duì 今jīn ，野兽yěshòu 对duì 山shān 禽qín 。犍jiān 牛niú 对duì 牝pìn 马mǎ ，水shuǐ 浅qiǎn 对duì 山shān 深shēn 。曾céng 点diǎn 瑟sè ，戴dài 逵kuí 琴qín，璞pú 玉yù 对duì 浑hùn 金jīn 。艳yàn 红花hónghuā 弄nòng 色sè ，浓绿nónglǜ 柳liǔ 敷fū 阴yīn 。不bù 雨yǔ 汤tāng 王wáng 方fāng 剪jiǎn 爪zhǎo ，有yǒu 风fēng 楚chǔ 子zǐ 正zhèng 披pī 襟jīn 。书生shūshēng 惜xī 壮zhuàng 岁suì 韶sháo 华huá， 寸阴cùnyīn 尺chǐ 璧bì；游子yóuzǐ 爱ài 良宵liángxiāo 光景guāngjǐng ，一刻千金yíkèqiānjīn。
 
@@ -841,7 +836,7 @@
 
 悲bēi 对duì 乐lè ，爱ài 对duì 嫌xián，玉yù兔tù 对duì 银yín 蟾chán。醉zuì 侯hóu 对duì 诗shī史shǐ，眼yǎn底dǐ 对duì 眉méi 尖jiān。风fēng 飁xí飁xí，雨yǔ绵mián绵mián ，李lǐ 苦kǔ 对duì 瓜guā甜tián。画huà 堂táng 施shī 锦jǐn 帐zhàng ，酒jiǔ 市shì 舞wǔ 青qīng 帘lián。横héng 槊shuò 赋fù诗shī 传chuán 孟mèng 德dé， 引yǐn 壶hú 酌zhuó酒jiǔ 尚shàng 陶táo 潜qián 。两liǎng 曜yào 迭dié 明míng， 日rì 东dōng 生shēng 而ér 月yuè 西xī 出chū；五wǔ行xíng 式shì 序xù， 水shuǐ 下xià 润rùn 而ér 火huǒ 上shàng 炎yán。
 
-#### 086 凯叔·声律启蒙-下-注音版-歌词·十四盐-2 如rú 对duì 似sì~减jiǎn 对duì 添tiān 
+#### 086 凯叔·声律启蒙-下-注音版-歌词·十四盐-2 如rú 对duì 似sì~减jiǎn 对duì 添tiān
 
 如rú 对duì 似sì ，减jiǎn 对duì 添tiān ，绣xiù 幕mù 对duì 朱zhū 帘lián。探tàn 珠zhū 对duì 献xiàn 玉yù，鹭lù 立lì 对duì 鱼yú 潜qián 。玉yù 屑xiè饭fàn ，水shuǐ晶jīng 盐yán ，手shǒu 剑jiàn 对duì 腰yāo 镰lián。燕yàn 巢cháo 依yī 邃suì 阁gé，蛛zhū网wǎng 挂guà 虚xū 檐yán。夺duó 槊shuò 至zhì 三sān 唐táng敬jìng 德dé ，栾luán棋qí 第dì一yī 晋jìn王wáng恬tián 。南nán 浦pǔ 客kè 归guī，湛zhàn 湛zhàn 春chūn 波bō 千qiān 顷qǐng 净jìng；西xī 楼lóu 人rén 悄qiāo，弯wān弯wān 夜yè 月yuè 一yī 钩gōu 纤xiān。
 
@@ -862,4 +857,3 @@
 #### 090 凯叔·声律启蒙-下-注音版-歌词·十五咸-3 冠guàn 对duì 带dài~帽mào 对duì 衫shān
 
 冠guàn 对duì 带dài ,帽mào 对duì 衫shān ,议yì 鲠gěng 对duì 言yán 谗chán。行xíng舟zhōu 对duì 御yù 马mǎ ,俗sú 弊bì 对duì 民mín 岩yán 。鼠shǔ 且qiě 硕shuò，兔tù 多duō毚chán ,史shǐ册cè 对duì 书shū 缄jiān。塞sāi 城chéng 闻wén 奏zòu 角jiǎo, 江jiāng 浦pǔ 认rèn 归guī 帆fān。河hé水shuǐ 一yī 源yuán 形xíng 弥mí 弥mí, 泰tài山shān 万wàn 仞rèn 势shì 岩yán岩yán。郑zhèng 为wéi 武wǔ 公gōng, 赋fù 缁zī 衣yī 而ér 美měi德dé ；周zhōu 因yīn 巷xiàng 佁yǐ , 歌gē 贝bèi 锦jǐn 以yǐ 伤shāng 谗chán 。
-
